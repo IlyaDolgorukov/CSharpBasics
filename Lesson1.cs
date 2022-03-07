@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace CSharpBasics
 {
-    internal class Program
+    internal class Lesson1
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
