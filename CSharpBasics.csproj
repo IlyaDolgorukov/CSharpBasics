@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharpBasics.Lesson2</StartupObject>
+    <StartupObject>CSharpBasics.Lesson3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Lesson3.cs" />
     <Compile Include="Lesson2.cs" />
     <Compile Include="Lesson1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
